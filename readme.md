@@ -1,27 +1,4 @@
-<style>
-  body {
-    background-color: #000;
-    color: #fff;
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-  }
-  h1, h2, h3, h4, h5, h6 {
-    color: #ffcc00;
-  }
-  pre, code {
-    background-color: #1e1e1e;
-    color: #dcdcdc;
-    padding: 0.5em;
-    border-radius: 4px;
-  }
-  a {
-    color: #66ccff;
-  }
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
+
 
 ## Table of Contents
 
